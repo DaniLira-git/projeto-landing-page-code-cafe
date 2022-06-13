@@ -1,4 +1,4 @@
-# projeto-landing-page-code-cafe
+# Projeto landing page code café
 Criando uma landing page para uma cafeteria <br>
 Linguagem usadas: **html e css** <br>
 Página responsiva, se adapta a telas menores.
